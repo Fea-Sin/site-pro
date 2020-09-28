@@ -1,11 +1,7 @@
 
 ## SITE PRO
 
-## Now! 🎉🎉🎉
-
-<h1 align="center">Site Pro</h1>
-
-## Features
+## Features 🎉🎉🎉
 
 - :bulb: **TypeScript**: A language for application-scale JavaScript
 - :scroll: **Blocks**: Build page with block template
